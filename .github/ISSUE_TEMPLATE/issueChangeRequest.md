@@ -15,9 +15,8 @@ assignees: ''
 Bug
 
 ### **Daten zum Issue**
-- Benutzername/E-Mail: 
-- Passwort: 
 - Link: 
+- Passbolt Name: 
 
 ### **Änderungsanforderung**
 - [ ] Beschreibung
