@@ -12,7 +12,7 @@ assignees: ''
 {}
 
 ### **Typ**
-Bug
+Change Request
 
 ### **Daten zum Issue**
 - Link: 
