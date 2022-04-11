@@ -3,8 +3,8 @@
 name: Change Request
 about: Issue erstellen, für eine Änderungsanforderung.
 title: ''
-labels: 'bug'
-assignees: 'dykunxv'
+labels: 'enhancement'
+assignees: ''
 
 ---
 
