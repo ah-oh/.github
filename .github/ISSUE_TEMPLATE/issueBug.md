@@ -17,6 +17,7 @@ Bug
 ### **Daten zum Issue**
 - Link: 
 - Passbolt Name: 
+- Ursprungs-Story: 
 
 
 ### **Reproduzieren**
