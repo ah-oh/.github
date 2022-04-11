@@ -1,6 +1,6 @@
 ---
 
-name: Bug
+name: Change Request
 about: Issue erstellen, für eine Änderungsanforderung.
 title: ''
 labels: 'bug'
