@@ -8,7 +8,6 @@ assignees: ''
 
 ---
 
-### **Szales ID**
 {}
 
 ### **Typ**
