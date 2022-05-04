@@ -8,7 +8,6 @@ assignees: 'dykunxv'
 
 ---
 
-### **Szales ID**
 {}
 
 ### **Typ**
