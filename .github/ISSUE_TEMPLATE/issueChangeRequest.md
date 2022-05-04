@@ -8,7 +8,6 @@ assignees: ''
 
 ---
 
-### **Szales ID**
 {}
 
 ### **Typ**
@@ -24,3 +23,5 @@ Change Request
 
 
 ### **Screenshots**
+
+### **Zusatzinformation**

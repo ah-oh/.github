@@ -8,7 +8,6 @@ assignees: 'dykunxv'
 
 ---
 
-### **Szales ID**
 {}
 
 ### **Typ**
@@ -31,3 +30,5 @@ Bug
  - OS: 
  - Browser: 
  - Version: 
+
+### **Zusatzinformation**
