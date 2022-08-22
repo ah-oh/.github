@@ -1,31 +1,25 @@
-[
-The user story should have a reason to exist: what do I need as the user described in the summary? (Kundentyp + Anforderung + Zweck)
-This part details any detail that could not be passed by the summary.
-]
+---
+name: User story template
+about: This template provides a basic structure for user story issues.
 
+---
 
-### Acceptance Criteria
+# User story
+As a ..., I want to ..., so I can ...
 
-1. [If I do A.]
-1. [B should happen.]
+*Ideally, this is in the issue title, but if not, you can put it here. If so, delete this section.*
 
-[
-Also, here are a few points that need to be addressed:
+# Acceptance criteria
 
-1. Constraint 1;
-1. Constraint 2;
-1. Constraint 3.
-]
+- [ ] This is something that can be verified to show that this user story is satisfied.
 
+# Resources:
 
-### Resources:
-
-* Mockups: [Here goes a URL to or the name of the mockup(s) in inVision];
+* Mockups: [Here goes a URL to or the name of the mockup(s) in Figma];
 * Testing URL: [Here goes a URL to the testing branch or IP];
 * Staging URL: [Here goes a URL to the feature on staging];
 
-
-### Notes
+# Notes
 
 [Some complementary notes if necessary:]
 
