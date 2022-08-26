@@ -8,27 +8,27 @@ assignees: 'dykunxv'
 
 ---
 
-{}
+# Bug
 
-### **Typ**
-Bug
+[Eine kurze Beschreibung des Bugs]
 
-### **Daten zum Issue**
+## Ablauf
+
+[Hier wird beschrieben wie der Bug nachproduziert werden kann]
+
+## Screenshots / Video
+
+[Ergänzent zum Ablauf können hier Screenshots und Videos hinzugefüt werden]
+
+## Verknüpfungen
 - Link: 
 - Passbolt Name: 
 - Ursprungs-Story: 
+- Ansprechpartner:
 
-
-### **Reproduzieren**
-- [ ] Beschreibung
-
-
-### **Screenshots**
-
-
-### **Systeminformation**
+## Systeminformation
  - OS: 
  - Browser: 
  - Version: 
 
-### **Zusatzinformation**
+## Zusatzinformation
