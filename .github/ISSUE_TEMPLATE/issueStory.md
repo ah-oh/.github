@@ -1,34 +1,31 @@
 ---
 name: User story template
 about: This template provides a basic structure for user story issues.
-
+labels: feature
 ---
 
-# User story
-Als ROLLE möchte ich DAS TUN um ZIEL
+# Feature Story
 
-*Ideally, this is in the issue title, but if not, you can put it here. If so, delete this section.*
+[Als ROLLE möchte ich DAS TUN um ZIEL]
 
-# Acceptance criteria
+
+## Acceptance criteria
 
 - [ ] This is something that can be verified to show that this user story is satisfied.
 
-# Resources:
+## Resources:
 
 * Mockups: [Here goes a URL to or the name of the mockup(s) in Figma];
 * Testing URL: [Here goes a URL to the testing branch or IP];
 * Production URL: [Here goes a URL to the feature on staging];
 
-# Workflow
+## Workflow
 
 - [ ] UX
 - [ ] Code
 - [ ] Test
 - [ ] Handbuch
 
-# Notes
+## Notes
 
 [Some complementary notes if necessary:]
-
-* > Here goes a quote from an email
-* Here goes whatever useful information can exist…
