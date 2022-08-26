@@ -1,7 +1,7 @@
 ---
 
-name: Bug
-about: Issue erstellen, für einen Fehler in der Anwendung.
+name: Bug Template
+about: Vorlage für Bug Stories
 title: ''
 labels: 'bug'
 assignees: 'dykunxv'
