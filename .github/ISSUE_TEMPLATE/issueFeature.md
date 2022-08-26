@@ -20,7 +20,7 @@ labels: feature
 * Production URL: [Here goes a URL to the feature on staging];
 
 ## Workflow
-
+size: **[tiny | small | medium | large | x-large]**
 - [ ] UX
 - [ ] Code
 - [ ] Test
