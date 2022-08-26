@@ -1,6 +1,6 @@
 ---
-name: User story template
-about: This template provides a basic structure for user story issues.
+name: Feature Template
+about: Vorlage für Feature Stories
 labels: feature
 ---
 
