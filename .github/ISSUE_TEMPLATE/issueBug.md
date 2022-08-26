@@ -8,7 +8,7 @@ assignees: 'dykunxv'
 
 ---
 
-# Bug
+# Bug Story
 
 [Eine kurze Beschreibung des Bugs]
 
