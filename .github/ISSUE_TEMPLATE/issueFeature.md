@@ -4,7 +4,7 @@ about: This template provides a basic structure for user story issues.
 labels: feature
 ---
 
-# Feature Story
+# Feature
 
 [Als ROLLE möchte ich DAS TUN um ZIEL]
 
