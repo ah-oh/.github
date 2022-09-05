@@ -4,6 +4,8 @@ about: Vorlage für Feature Stories
 labels: feature
 ---
 
+{SZALES_ID}
+
 # Feature
 
 [Als ROLLE möchte ich DAS TUN um ZIEL]
