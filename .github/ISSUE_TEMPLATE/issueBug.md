@@ -8,6 +8,8 @@ assignees: 'dykunxv'
 
 ---
 
+{SZALES_ID}
+
 # Bug
 
 [Eine kurze Beschreibung des Bugs]
