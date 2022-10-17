@@ -20,7 +20,7 @@ assignees: 'dykunxv'
 
 ## Screenshots / Video
 
-[Ergänzent zum Ablauf können hier Screenshots und Videos hinzugefüt werden]
+[Ergänzend zum Ablauf können hier Screenshots und Videos hinzugefügt werden]
 
 ## Verknüpfungen
 - Link: 
