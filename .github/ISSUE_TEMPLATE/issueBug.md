@@ -3,7 +3,8 @@
 name: Bug Template
 about: Vorlage für Bug Stories
 title: ''
-labels: 'bug'
+labels: ''
+type: 'bug'
 
 ---
 
