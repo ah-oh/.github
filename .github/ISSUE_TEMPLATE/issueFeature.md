@@ -1,7 +1,8 @@
 ---
 name: Feature Template
 about: Vorlage für Feature Stories
-labels: feature
+labels: ''
+type: 'feature'
 ---
 
 {SZALES_ID}
